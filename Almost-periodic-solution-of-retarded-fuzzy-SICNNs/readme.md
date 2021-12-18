@@ -1,3 +1,3 @@
 Fuzzy shunting inhibitory cellular neural networks are described as
 
-![alt text](https://github.com/aissakhanov/papers/Almost-periodic-solution-of-retarded-fuzzy-SICNNs/blob/main/FSICNN_delays.PNG?raw=true)
+![alt text](https://github.com/aissakhanov/papers/blob/f74d106408a77ab796c6c9ddcb693d628ecad729/Almost-periodic-solution-of-retarded-fuzzy-SICNNs/FSICNN_delays.PNG?raw=true)
