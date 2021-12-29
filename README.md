@@ -1,3 +1,1 @@
-# papers
-
-Codes used in publications
+# Codes used in papers
