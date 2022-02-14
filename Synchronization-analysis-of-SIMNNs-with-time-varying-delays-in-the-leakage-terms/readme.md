@@ -1,4 +1,4 @@
-Here, you can find a MATLAB code used in paper: <a href="https://authors.elsevier.com/c/1eZZM3QI~FVr~9">LINK</a>
+Here, you can find a MATLAB code used in paper: <a href="https://authors.elsevier.com/c/1eZZM3QI~FVr~9" target="_blank">LINK</a>
 
 0)MAIN.m is the starting point.
 
