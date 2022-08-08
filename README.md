@@ -1,2 +1,2 @@
 # Codes-used-in-papers
-I share codes, used for publication in peer-reviewed journals
+I share codes which I used in published papers
